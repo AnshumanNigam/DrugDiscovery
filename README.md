@@ -5,4 +5,4 @@
 ### Module 1b- Exploratory Data Analysis (released)
 ### Module  2- Cleaning the data (released)
 ### Module  3- Descriptor analysis (released)
-### Module  4- Model Building,Comparison and deployment (unrealeased)
+### Module  4- Model Building,Comparison and deployment (unreleased)
